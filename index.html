@@ -438,7 +438,7 @@ d3.csv("cleanData.csv", function(error, data) {
         .attr("clip-path", "url(#clip)")
         .style("stroke-dasharray", function(d){
           if(d.id == "nrate") return ("3, 3");})
-        .on("mouseover", function(d1) {   
+        .on("click", function(d1) {   
             selectedPlotState = [];
             var sid = d1.id;
             sid = sid.replace(/\s+/g, '');
