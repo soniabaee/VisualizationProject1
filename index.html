@@ -648,9 +648,9 @@ function nationalRate(){
       .attr("id", "nRateC")
       .attr("stroke", "#000")
       .attr("fill", function(d,i){
-        if (d.rate <4)
+        if (d.rate <5)
           return "#0f0";
-        else if (d.rate>=4 && d.rate<6)
+        else if (d.rate>=5 && d.rate<6)
           return "#ff0";
         else
           return "#f00";
@@ -674,9 +674,9 @@ function nationalRate(){
 
     })
     .style("fill",function(d){
-      if (valueById.get(name_id_map[id_name_map[d.id]]) < 4)
+      if (valueById.get(name_id_map[id_name_map[d.id]]) < 5)
           return "#0f0";
-        else if (valueById.get(name_id_map[id_name_map[d.id]]) >= 4 && valueById.get(name_id_map[id_name_map[d.id]]) < 6)
+        else if (valueById.get(name_id_map[id_name_map[d.id]]) >= 5 && valueById.get(name_id_map[id_name_map[d.id]]) < 6)
           return "#ff0";
         else
           return "#f00";
