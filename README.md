@@ -12,7 +12,9 @@ It also shows the national rate and sudden decrease (more than 3%) in this durat
       creating data for each states according to timeseries duration
         - Collect the data from BLS website. Some pre-processing might be needed to obtain unemployment rate.
         - Allow users to select a state and display its unemployment rate in the graph. (select in map and draw button)
+        - The map for each state has a tooltip that shows their name and average unemployment rate.
         - Allow user to add more than one states (to compare) or all states into the graph.
+        - The timeseries for each state has tooltip that shows the name of state
         - Graph labels are available and easy to read.
         - Display and compare to the national unemployment rate on request.
         - Allow state selection from a US map.
