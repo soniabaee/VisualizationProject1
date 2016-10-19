@@ -40,3 +40,4 @@ We can also can see sudden drop of employee rate between two sequence months tha
 ![info](https://cloud.githubusercontent.com/assets/19417775/19524963/14823846-95e5-11e6-8439-283381d81cfe.png)
 
 #### More datails of data interpreation and application demo video are in the wiki
+https://github.com/Sonia2016/Sonia2016.github.io/wiki
