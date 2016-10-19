@@ -39,4 +39,4 @@ By pressing national employee button it will show you the national employee rate
 We can also can see sudden drop of employee rate between two sequence months that is more than 3% in this diagram by pressing info button. That shows the two states. 
 ![info](https://cloud.githubusercontent.com/assets/19417775/19524963/14823846-95e5-11e6-8439-283381d81cfe.png)
 
-#### More datails of data interpreation can be find in the wiki
+#### More datails of data interpreation and application demo video are in the wiki
