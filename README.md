@@ -35,4 +35,8 @@ If also you mouseover on the state you can see the average employee rate of that
 By pressing national employee button it will show you the national employee rate that is has 3 colors that shows the states are less than 5 has a green, between 5 to 6 has a yellow and more than 6 has a red colore according to these colors you can also see which duration has this information in the timeseries.
 ![picture2](https://cloud.githubusercontent.com/assets/19417775/19521251/8f423d18-95d8-11e6-94dd-5b3dd56e4762.png)
 
-### Feature 6: Sudden Drop and Pump
+### Feature 6: Sudden Drop
+We can also can see sudden drop of employee rate between two sequence months that is more than 3% in this diagram by pressing info button. That shows the two states. 
+![info](https://cloud.githubusercontent.com/assets/19417775/19524963/14823846-95e5-11e6-8439-283381d81cfe.png)
+
+#### More datails of data interpreation can be find in the wiki
